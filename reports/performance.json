@@ -1,0 +1,11 @@
+{
+  "materiel": "8 coeurs logiques, 5.8 Go RAM",
+  "repetitions_prediction_isolee": 1000,
+  "latence_moyenne_ms": 1.532,
+  "latence_p95_ms": 2.896,
+  "lot_taille": 56961,
+  "lot_duree_s": 0.0227,
+  "debit_predictions_par_s": 2510002,
+  "taille_modele_ko": 2.7,
+  "memoire_processus_mo": 280.3
+}
